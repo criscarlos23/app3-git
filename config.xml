@@ -28,6 +28,7 @@ Datos de la bicicleta
 <allow-intent href"https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
+<acces origin="http://*/*"/>
 <pugin name="cordova-plugin-whitelist" source"npm"/>
 <!--Plugins-->
 <!--core plugins-->
